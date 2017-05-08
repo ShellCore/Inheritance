@@ -11,5 +11,8 @@ public class Main {
 
         ferrari.getDescription();
         coupe.getDescription();
+
+        Car tsuru = new CityCar(180, 5);
+        tsuru.getDescription();
     }
 }
